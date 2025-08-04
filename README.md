@@ -35,11 +35,17 @@ Visuals reflect a combination of statistical depth and accessibility for decisio
 
 ## 🚀 Getting Started
 
-To explore or modify the report:
+To explore or understand the project:
 
-1. Clone the repository.
-2. Open the `.pbix` file in Power BI Desktop.
-3. Review or edit the visuals, queries, or data model as needed.
+1. **View the project documentation:**
+   📄 [View Global Malnutrition Project Document](./doc-global%20malnutrition%20project%20doc.docx)  
+   *(Provides detailed context, objectives, and methodology.)*
 
-```bash
-git clone https://github.com/parvanii/Global-Malnutrition-Trends-1983-2019-.git
+2. **Watch the demo video:**
+   📽️ [Watch Power BI Walkthrough Video on Google Drive](https://drive.google.com/file/d/1CtPrA01XAYpMwK-njdsr3rwvvrVzSaAQ/view?usp=sharing)  
+   *(Includes a screen recording showcasing dashboard interactions and key insights.)*
+
+3. **Clone the repository:**
+   ```bash
+   git clone https://github.com/parvanii/Global-Malnutrition-Trends-1983-2019-.git
+
