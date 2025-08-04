@@ -37,15 +37,16 @@ Visuals reflect a combination of statistical depth and accessibility for decisio
 
 To explore or understand the project:
 
-1. **View the project documentation:**
-   📄 [View Global Malnutrition Project Document](./doc-global%20malnutrition%20project%20doc.docx)  
-   *(Provides detailed context, objectives, and methodology.)*
+1. **View the project documentation:**  
+   📄 [Global Malnutrition Project Doc (Word)](./global%20malnutrition%20project%20doc.docx)  
+   *Provides background, methodology, objectives, and detailed insights.*
 
-2. **Watch the demo video:**
-   📽️ [Watch Power BI Walkthrough Video on Google Drive](https://drive.google.com/file/d/1CtPrA01XAYpMwK-njdsr3rwvvrVzSaAQ/view?usp=sharing)  
-   *(Includes a screen recording showcasing dashboard interactions and key insights.)*
+2. **Watch the demo video:**  
+   📽️ [Watch Power BI Walkthrough on Google Drive](https://drive.google.com/file/d/1CtPrA01XAYpMwK-njdsr3rwvvrVzSaAQ/view?usp=sharing)  
+   *Screen recording showcasing dashboard navigation and key findings.*
 
 3. **Clone the repository:**
    ```bash
    git clone https://github.com/parvanii/Global-Malnutrition-Trends-1983-2019-.git
+
 
